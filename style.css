@@ -1,6 +1,7 @@
 @font-face {
-    font-family: New Super Mario Font U;
-    src: url("../blueo110-site/resources/fonts/New Super Mario Font U.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
+font-family: "New Super Mario Font U";
+src: url(../blueo110-site/resources/fonts/New Super Mario Font U.eot");
+src: url("../blueo110-site/resources/fonts/New Super Mario Font U.woff") format("woff"),
+url("../blueo110-site/resources/fonts/New Super Mario Font U.ttf") format("opentype"),
+url(../blueo110-site/resources/fonts/New Super Mario Font U.svg") format("svg");
 }
